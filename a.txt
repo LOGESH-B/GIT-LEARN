@@ -1,0 +1,17 @@
+ls-list
+vi-open editor
+:wq-save and close
+:q!-close without save
+
+rm file_name-to delete a file
+rm -r -delete folder
+
+29/11/21
+  
+git init - initialization
+git config user.name "UNAME"
+git config user.email "email_id"
+Create your files
+git status
+git add .
+git commit -m "Some message here"
