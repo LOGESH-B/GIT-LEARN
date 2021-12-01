@@ -15,3 +15,9 @@ Create your files
 git status
 git add .
 git commit -m "Some message here"
+
+
+30/11/21
+git remote add origin <repository URL>
+git remote -v
+git pull origin <branch_name>
